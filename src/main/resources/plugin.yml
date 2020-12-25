@@ -1,0 +1,26 @@
+name: CorePlugin
+version: ${project.version}
+main: org.swofty.Core.Loader
+api-version: 1.15
+
+commands:
+  spawn:
+    description: Placeholder
+
+  setspawn:
+    description: Placeholder
+
+  fly:
+    description: Placeholder
+
+  gm:
+    description: Placeholder
+
+  gamemode:
+    description: Placeholder
+
+  adminlog:
+    description: Placeholder
+
+  debugplugin:
+    description: Placeholder
